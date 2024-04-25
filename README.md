@@ -6,8 +6,8 @@ Créer une application Web JEE basée sur Spring MVC, Thylemeaf et Spring Data J
     - Chercher les patients
      - Supprimer un patient
       - Faire des améliorations supplémentaires
-- Patients List
-  - Partie 2:
+
+- Partie 2:
    - Créer une page template
    - Faire la validation des formulaires
 ![Capture d'écran 2024-04-25 010449](https://github.com/Yassinox0/Hospital-Mvc-JEE/assets/117094979/6b639302-8db1-45d1-89d4-9fe6ac95b62d)
